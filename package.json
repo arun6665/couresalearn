@@ -1,0 +1,24 @@
+{
+  "name": "gittest",
+  "version": "1.0.0",
+  "description": "this is a test directory",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arun6665/couresalearn.git"
+  },
+  "author": "arun roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arun6665/couresalearn/issues"
+  },
+  "homepage": "https://github.com/arun6665/couresalearn#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
